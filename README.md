@@ -23,5 +23,5 @@ sendo assim o usuário não consegue enviar o todo e é mostrado uma mensagem qu
 foi tratada através da criação de uma classe e é renderizada caso não tenha todo
 digitado.
 
-<img src="./assets/video.mkv">
+  <video src="./assets/video.mkv"></video>
 </p>
