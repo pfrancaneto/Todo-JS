@@ -24,4 +24,8 @@ foi tratada através da criação de uma classe e é renderizada caso não tenha
 digitado.
 
 <img src="./assets/todoGif.gif">
+
+Para abrir o projeto:
+- faça o download dos arquivos(projeto)
+- usando a extensão Go Live no VS Code irá visualizar o projeto
 </p>
