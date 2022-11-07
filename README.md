@@ -1,6 +1,6 @@
 # Todo-JS
 
-<img src="./assests/todo.jpeg">
+<img src="./assets/todo.jpeg">
 
 <p>
 Projeto de Todo realizado com JS puro. 
